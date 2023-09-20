@@ -1,3 +1,3 @@
 # student_report_card
 
-#inmport demo.sql file
+#import demo.sql file
