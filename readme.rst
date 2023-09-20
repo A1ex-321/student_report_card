@@ -6,6 +6,25 @@ personal Information
 
 ###################
 ###################
+          project name should be c3 otherwise won,t run
+###################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###################
 What is CodeIgniter
 ###################
 
