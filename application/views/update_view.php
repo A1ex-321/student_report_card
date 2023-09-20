@@ -19,7 +19,7 @@
     </div>
     <div class="form-group">
       <label for="rollno">Roll No:</label>
-      <input type="number" class="form-control " name="rollno" placeholder="Enter RollNo ID"  value="<?php echo $student[0]['rollno'];?>" required disabled>
+      <input type="number" class="form-control " name="rollno" placeholder="Enter RollNo ID"  value="<?php echo $student[0]['rollno'];?>" required>
     </div>
     <div class="col-xs-6">
 	<div class="form-group ">
